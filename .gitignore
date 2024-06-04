@@ -1,0 +1,5 @@
+events/
+.class/layers
+*lock.json
+node_modules/ but not src/node_modules
+
